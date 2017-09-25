@@ -1,0 +1,67 @@
+{
+  "name": "testAndroidXML",
+  "source_language": 94,
+  "target_languages": [
+    {
+      "language_id": 20,
+      "translation_memory": {
+        "tm_id": "8fe9f04c-3b45-4efe-9c2f-f1c373d53321"
+      },
+      "glossary": {
+        "glossary_id": 124
+      }
+    }
+  ],
+  "project_type": 2,
+  "milestones": [
+    {
+      "milestone": {
+        "id": 452,
+        "name": "First Milestone",
+        "order": 0,
+        "description": "First Milestone Description",
+        "due_date": "",
+        "milestone_id": 452
+      },
+      "languages": [
+        {
+          "id": 20,
+          "name": "Arabic - Qatar",
+          "code": "ar-qa",
+          "direction": "rtl",
+          "override_order": "Arabic - Qatar",
+          "uniqueId": "0.2003561381903256",
+          "users": [
+            {
+              "id": 1,
+              "first_name": "May",
+              "full_name": "May Habib",
+              "avatar": "https://storage.googleapis.com/dev-env-storage/007c5b93-eb68-4004-817b-41e841c6fa33_may (1)__scaled__cropped__scaled.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "string_files": [
+    {
+      "id": "6eed1491-ed0d-493c-9707-6fa322d01c3c_forArabic.stringsdict",
+      "source_columns": [],
+      "file_name": "forArabic.stringsdict",
+      "file_type": "iosStringsDict"
+    }
+  ],
+  "content_type_codes": [
+    {
+      "name": "Ios Strings Dict",
+      "be_value": "iosStringsDict",
+      "content_type_code": "iosStringsDict",
+      "upload_path": "/organizations/:organization_id/upload/uploadFile_anyType",
+      "extensions": [
+        "stringsdict"
+      ]
+    }
+  ],
+  "content_source": "upload-file",
+  "segmentation": "default"
+}
