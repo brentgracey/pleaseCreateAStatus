@@ -1,17 +1,17 @@
 {
   "result" : "Hussam",
   "token" : "",
-  "remember_me" : "Boş",
+  "remember_me" : "Bos",
   "loggedUser" : {
     "id" : "1",
     "first_name" : "Brent",
     "last_name" : "Gracie",
     "email" : "Brent@qordoba.com",
-    "name" : "Brent Gracey",
+    "name" : "Sdf",
     "avatar" : "https://Brent.png",
     "organizations" : [ {
       "id" : "2",
-      "name" : "Kontrollü Test Org",
+      "name" : "Kontrollü Org prueba",
       "role" : "Sahip"
     }, {
       "id" : "1002",
