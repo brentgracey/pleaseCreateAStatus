@@ -1,0 +1,26 @@
+{
+  "result" : "Hussam",
+  "token" : "",
+  "remember_me" : "Bos",
+  "loggedUser" : {
+    "id" : "1",
+    "first_name" : "Brent",
+    "last_name" : "Gracie",
+    "email" : "Brent@qordoba.com",
+    "name" : "Sdf",
+    "avatar" : "https://Brent.png",
+    "organizations" : [ {
+      "id" : "2",
+      "name" : "Kontrollü Org prueba",
+      "role" : "Sahip"
+    }, {
+      "id" : "1002",
+      "name" : "Brent",
+      "role" : "Sahip"
+    } ],
+    "timezone" : "Pasifik / Niue",
+    "created_at" : "1420066800000",
+    "phone_number" : "12345621",
+    "last_online" : "1469609210000"
+  }
+}
