@@ -1,0 +1,52 @@
+{
+  "name" : "",
+  "source_language" : "",
+  "target_languages" : [ {
+    "language_id" : "",
+    "translation_memory" : {
+      "tm_id" : ""
+    },
+    "glossary" : {
+      "glossary_id" : ""
+    }
+  } ],
+  "project_type" : "",
+  "milestones" : [ {
+    "milestone" : {
+      "id" : "",
+      "name" : "",
+      "order" : "",
+      "description" : "",
+      "due_date" : "",
+      "milestone_id" : ""
+    },
+    "languages" : [ {
+      "id" : "",
+      "name" : "",
+      "code" : "",
+      "direction" : "",
+      "override_order" : "",
+      "uniqueId" : "",
+      "users" : [ {
+        "id" : "",
+        "first_name" : "",
+        "full_name" : "",
+        "avatar" : ""
+      } ]
+    } ]
+  } ],
+  "string_files" : [ {
+    "id" : "",
+    "file_name" : "",
+    "file_type" : ""
+  } ],
+  "content_type_codes" : [ {
+    "name" : "",
+    "be_value" : "",
+    "content_type_code" : "",
+    "upload_path" : "",
+    "extensions" : [ "" ]
+  } ],
+  "content_source" : "",
+  "segmentation" : ""
+}
